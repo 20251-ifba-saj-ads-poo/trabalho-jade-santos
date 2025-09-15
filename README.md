@@ -1,2 +1,5 @@
-# javafx-template-step2
+# javafx-template-step1
  
+```shell
+.\mvnw
+```
